@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<file>
+  
+    <Questions>
+ 
+        <q1> Fill in the Blank Questions-------------------------------------------------------
+          <question>The FBLA is governed by a set of what?</question>
+          <type>Fill</type>
+          <answer>Bylaws</answer>
+        </q1>
+
+        <q2>
+          <question>What year was FBLA founded?</question>
+          <type>Fill</type>
+          <answer>1937</answer>
+        </q2>
+
+        <q3>
+          <question>What year did the annual membership reach 200,000</question>
+          <type>Fill</type>
+          <answer>1987</answer>
+        </q3>
+
+        <q4>
+          <question>In what year did the board of directors approve an Alumni Division?</question>
+          <type>Fill</type>
+          <answer>1979</answer>
+        </q4>
+
+        <q5>
+          <question>In what year was the Middle School Divsion established?</question>
+          <type>Fill</type>
+          <answer>1994</answer>
+        </q5>
+
+        <q6>
+          <question>What year did the National Center open?</question>
+          <type>Fill</type>
+          <answer>1991</answer>
+        </q6>
+
+        <q7>
+          <question>In what year was the postsecondary division created?</question>
+          <type>Fill</type>
+          <answer>1958</answer>
+        </q7>
+
+        <q8>
+          <question>How many years has the FBLA existed?</question>
+          <type>Fill</type>
+          <answer>84</answer>
+        </q8>
+
+        <q9>
+          <question>How many FBLA Divisions are there?</question>
+          <type>Fill</type>
+          <answer>4</answer>
+        </q9>
+
+        <q10>
+          <question>What city does the 2022 NCL Conference take place in?</question>
+          <type>Fill</type>
+          <answer>Chicago</answer>
+        </q10>
+
+        <q11>
+          <question>What city does the 2024 NCL Conference take place in?</question>
+          <type>Fill</type>
+          <answer>Orlando</answer>
+        </q11>
+
+        <q12>
+          <question>What city does the 2028 NCL Conference take place in?</question>
+          <type>Fill</type>
+          <answer>Salt Lake City</answer>
+        </q12>
+
+        <q13>
+          <question>Coral Reef Senior Reef High School has the most paid memberships with how many?</question>
+          <type>Fill</type>
+          <answer>453</answer>
+        </q13>
+ 
+      <q14> True/False Questions----------------------------------------------------------
+        <question>94</question>
+        <type>TF</type>
+        <answer>Fredy</answer>
+      </q14>
+
+      <q15>
+        <question>There are 5 regions in FBLA (T/F)</question>
+        <type>TF</type>
+        <answer>T</answer>
+      </q15>
+
+      <q16>
+        <question>GEICO is a partner of the FBLA (T/F)</question>
+        <type>TF</type>
+        <answer>T</answer>
+      </q16>
+
+      <q17>
+        <question>The FBLA publishes a magazine called Tonight's Business Leader (T/F)</question>
+        <type>TF</type>
+        <answer>F</answer>
+      </q17>
+
+      <q18>
+        <question>Kentucky has 30 Hall of Fame members (T/F)</question>
+        <type>TF</type>
+        <answer>F</answer>
+      </q18>
+
+      <q19>
+        <question>Minnesota only has 1 Hall of Fame member</question>
+        <type>TF</type>
+        <answer>T</answer>
+      </q19>
+
+      <q20>
+        <question>A benefit of starting a high school chapter is scholarship opportunities (T/F)</question>
+        <type>TF</type>
+        <answer>T</answer>
+      </q20>
+      
+      <q21>
+        <question>There are 10 National Officers in the High School division (T/F)</question>
+        <type>TF</type>
+        <answer>F</answer>
+      </q21>
+
+      <q22>
+        <question>There is an Administrative Support Technology competition in the PBL events (T/F)</question>
+        <type>TF</type>
+        <answer>T</answer>
+      </q22>
+
+      <q23>
+        <question>There are 4 Competitive Event Topics for the PBL (T/F)</question>
+        <type>TF</type>
+        <answer>F</answer>
+      </q23>
+
+      <q24>
+        <question>The 2020-21 Membership Theme is "Create" (T/F)</question>
+        <type>TF</type>
+        <answer>F</answer>
+      </q24>
+      
+      <q25>
+        <question>Online Membership Registration opens on August 1st (T/F)</question>
+        <type>TF</type>
+        <answer>T</answer>
+      </q25>
+      
+      <q26>
+        <question>July 1-2 is the NLC (T/F)</question>
+        <type>TF</type>
+        <answer>T</answer>
+      </q26>
+
+      <q27> Multiple Choice Questions-----------------------------------------------------
+        <question>Which of the following is not an FBLA sponser?</question>
+        <type>Multi</type>
+        <choices>A. Country Meats B. Jostens C. Walmart D. myOptions </choices>
+        <answer>C</answer>
+      </q27>
+
+      <q28>
+        <question>FBLA holds all of the following conferences except</question>
+        <type>Multi</type>
+        <choices>A. ANA B. NLC C. NFLC D. IFL</choices>
+        <answer>A</answer>
+      </q28>
+
+      <q29>
+        <question>Which was not one of the first 3 state chapters?</question>
+        <type>Multi</type>
+        <choices>A. Ohio B. Iowa C. Indiana D. Washington</choices>
+        <answer>D</answer>
+      </q29>
+
+      <q30>
+        <question>Which city is currently planned for a future NLC?</question>
+        <type>Multi</type>
+        <choices>A. NYC B. Atlanta C. Phenoix D. Miami</choices>
+        <answer>B</answer>
+      </q30>
+
+      <q31>
+        <question>Which state has more than 5 Wall of Fame members?</question>
+        <type>Multi</type>
+        <choices>A. Colorado B. Connecticut C. Indiana D. Minnesota</choices>
+        <answer>A</answer>
+      </q31>
+
+      <q32>
+        <question>Which FBLA partner does not give scholarships?</question>
+        <type>Multi</type>
+        <choices>A. NTHS B. Johnson and Wales C. LifeSmarts.org D. Crimson Ed</choices>
+        <answer>D</answer>
+      </q32>
+
+      <q33>
+        <question>Which is not a Demonstration Event?</question>
+        <type>Multi</type>
+        <choices>A. Website Design B. E-business C. Client Service D. Coding and Programming</choices>
+        <answer>C</answer>
+      </q33>
+
+      <q34>
+        <question>Which is not a Production and Objective Test Event?</question>
+        <type>Multi</type>
+        <choices>A. Journalism B. Word Processing C. Computer Applications D. Spreadsheet Applications</choices>
+        <answer>A</answer>
+      </q34>
+
+      <q35>
+        <question>Which is a Prejudged Projects and Presentations Event?</question>
+        <type>Multi</type>
+        <choices>A. Job Interview B. 3-D Animation C. LifeSmarts D. Politcal Science</choices>
+        <answer>B</answer>
+      </q35>
+
+      <q36>
+        <question>Which Event was retired this year?</question>
+        <type>Multi</type>
+        <choices>A. Business Ethics B. Public Speaking C. Emerging Business Issues D. Impromptu Speaking</choices>
+        <answer>C</answer>
+      </q36>
+
+      <q37>
+        <question>Which is not a New Event?</question>
+        <type>Multi</type>
+        <choices>A. Intro to Event Planning B. Intro to Social Media Strategy C. Supply Chain Management D. Mobile Phone Marketing</choices>
+        <answer>D</answer>
+      </q37>
+
+      <q38>
+        <question>Which Event was not modified?</question>
+        <type>Multi</type>
+        <choices>A. Sales Presentation B. Hospitality and Event Management C. Marketing D. Digital Video Production</choices>
+        <answer>C</answer>
+      </q38>
+
+      <q39>
+        <question>Which Region has non-US Chapters?</question>
+        <type>Multi</type>
+        <choices>A. Southern B. Eastern C. Western D. North Central</choices>
+        <answer>B</answer>
+      </q39>
+
+      <q40> Matching Questions----------------------------------------------------
+        <question>Match each Event with its Event Type</question>
+        <type>Match</type>
+        <choices>1. Production and Objective Test 2. Demonstration 3. Speech 4. Interview</choices>
+        <a_choices>a. E-business b. Computer Applications c. Impromptu Speaking d. Future Business Leader</a_choices>
+        <answer>b,a,c,d</answer>
+      </q40>
+
+      <q41>
+        <question>Match each Event with its Event Type</question>
+        <type>Match</type>
+        <choices>1. Team Performance 2. Objective Test 3. Presentation without Equipment 4. Collaborative Objective Test</choices>
+        <a_choices>a. Entreprenuership b. Advertising c. Graphic Design d. LifeSmarts</a_choices>
+        <answer>d,b,c,a</answer>
+      </q41>
+
+      <q42>
+        <question>Match each Partner with its Partner Type</question>
+        <type>Match</type>
+        <choices>1. Sponser 2. Education and Leadership 3. Fundraising 4. Scholarships</choices>
+        <a_choices>a. Knowledge Matters b. NTHS c. Intuit Education d. DormCo</a_choices>
+        <answer>a,c,d,b</answer>
+      </q42>
+
+      <q43>
+        <question>Match the number of Hall of Fame members with the state</question>
+        <type>Match</type>
+        <choices>1. Connecticut 2. Illinois 3. Iowa 4. Kentucky</choices>
+        <a_choices>a. 6 b. 3 c. 10 d. 5</a_choices>
+        <answer>b,c,a,d</answer>
+      </q43>
+
+      <q44>
+        <question>Match the number of Hall of Fame members with the state</question>
+        <type>Match</type>
+        <choices>1. Massachusetts 2. Minnesota 3. Nevada 4. New York</choices>
+        <a_choices>a. 1 b. 3 c. 11 d. 2</a_choices>
+        <answer>d,a,b,c</answer>
+      </q44>
+
+      <q45>
+        <question>Match each state to the order in which its Chapter opened up</question>
+        <type>Match</type>
+        <choices>1. Iowa 2. Indiana 3. Ohio</choices>
+        <a_choices>a. 1 b. 2 c. 3</a_choices>
+        <answer>a,b,c</answer>
+      </q45>
+      
+      <q46>
+        <question>Match each Wall of Fame member to their state</question>
+        <type>Match</type>
+        <choices>1. Sharon Adams 2. Vanessa D. King 3. Terri Roemer 4. Rita Bristol</choices>
+        <a_choices>a. DC b. Colorado c. Nebraska d. Minnesota</a_choices>
+        <answer>b,a,d,c</answer>
+      </q46>
+
+      <q47>
+        <question>Match each Wall of Fame member to their state</question>
+        <type>Match</type>
+        <choices>1. Kent R. Lauber 2. Frank Basile 3. William Feth 4. Judy Storey</choices>
+        <a_choices>a. Oregon b. Ohio c. New Hampshire d. New York</a_choices>
+        <answer>d,c,b,a</answer>
+      </q47>
+
+      <q48>
+        <question>Match each Wall of Fame member to their state</question>
+        <type>Match</type>
+        <choices>1. Gwendolyn Floyd 2. Patricia Coggin 3. Nanette Anderson 4. Maribeth Cornell</choices>
+        <a_choices>a. Tennessee b. Utah c. South Carolina d. Vermont</a_choices>
+        <answer>c,a,b,d</answer>
+      </q48>
+
+      <q49>
+        <question>Match the NLC year to its city</question>
+        <type>Match</type>
+        <choices>1. 2026 2. 2023 3. 2028 4. 2021</choices>
+        <a_choices>a. San Antonio b. Atlanta c. Anaheim d. Salt Lake City</a_choices>
+        <answer>a,b,d,c</answer>
+      </q49>
+
+      <q50>
+        <question>Match the Division with the approximate number of members it has</question>
+        <type>Match</type>
+        <choices>1. FBLA 2. FBLA-ML 3. PBL 4. PD</choices>
+        <a_choices>a. 3,900 b. 196,950 c. 21,900 d. 8,000</a_choices>
+        <answer>b,c,d,a</answer>
+      </q50>
+
+    </Questions>
+
+  </file>
